@@ -20,19 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33b59c1f-fca2-4e75-82bc-eb30ba55f82f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Landing/Nav/icon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Landing/Nav/nav.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Landing/Nav/nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Landing/icon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Landing/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Landing/landing.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Landing/landing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Landing/landing.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Landing/landing.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Landing/landing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Landing/landing.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +71,7 @@
       <updated>1636706007483</updated>
       <workItem from="1636706008722" duration="2415000" />
       <workItem from="1636791334275" duration="4855000" />
-      <workItem from="1636876899128" duration="20029000" />
+      <workItem from="1636876899128" duration="22083000" />
     </task>
     <servers />
   </component>

@@ -86,6 +86,26 @@ const LandingPage = () =>{
                 </div>
 
             </div>
+
+<div className='userNumbers'>
+    <div className='userNumbersLeft box' >
+
+        <p className='userNumbersParagraph'>
+            It is believed by over 700,000 users
+        </p>
+        <div className='infoParagraph'>
+
+            <p className='smallParagraph'>
+                Moneybox is helping hundreds of thousands of people save and invest for their future. Our award-winning app makes it easy to get started, offers products to suit every need, encourages people to make the right decisions throughout their lives and brings everything together in a service which is simple and enjoyable to use.
+            </p>
+
+
+
+        </div>
+
+      
+    </div>
+</div>
         </div>
         </div>
     )
