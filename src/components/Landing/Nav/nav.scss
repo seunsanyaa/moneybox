@@ -1,0 +1,80 @@
+
+
+
+
+.navBar{
+
+  background:#D7D7D71A;
+;
+
+}
+
+nav{
+
+
+
+  display: flex;
+  align-items: center;
+
+width: 100%;
+
+
+}
+
+.navContainer{
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-top: 1.5em;
+  padding-bottom: 1em;
+}
+
+nav>.navLinks>*{
+
+  display: inline-flex;
+  text-decoration: none;
+  color: #303030;
+  cursor: pointer;
+  font-size: 14px;
+font-weight: 600;
+
+}
+
+.navLinks{
+margin-left: 2.2em;
+
+}
+
+
+.navLinks span {
+
+  padding-left: 4em;
+}
+
+
+.stores{
+  margin-left: 19em;
+
+}
+
+.stores button svg{
+
+align-items: center;
+
+  text-align: center;
+
+
+}
+
+.stores button{
+border: unset;
+  background: #00C2B533;
+  border-radius: 2em;
+  width: 46px;
+  height: 46px;
+}
+
+.googleStore{
+  margin-left: 1.8em;
+}
+
+
