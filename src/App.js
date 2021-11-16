@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.scss';
 import {BrowserRouter, Route, Switch} from 'react-router-dom'
-import {LandingPage} from "./components";
+import {LandingPage,Section} from "./components";
 
 
 
@@ -13,7 +13,7 @@ function App() {
 
           <LandingPage/>
 
-
+<Section/>
 
 
         </div>

@@ -20,9 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33b59c1f-fca2-4e75-82bc-eb30ba55f82f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Section/BlogPost/blogpost.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Section/BlogPost/blogpost.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Section/BlogPost/icon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Section/icon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Section/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Section/section.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Section/section.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Landing/icon.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Landing/icon.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Landing/landing.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Landing/landing.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Landing/landing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Landing/landing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +53,9 @@
     <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="20oLUBIcbi64k8BQoOvhd5WD4wI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,12 +64,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Landing/Nav" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Section/BlogPost" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Seunxyz\Documents\GitHub\moneybox\src\components\Section\BlogPost" />
       <recent name="C:\Users\Seunxyz\Documents\GitHub\moneybox\src\components\Landing\Nav" />
       <recent name="C:\Users\Seunxyz\Documents\GitHub\moneybox\src\components" />
     </key>
@@ -71,7 +85,8 @@
       <updated>1636706007483</updated>
       <workItem from="1636706008722" duration="2415000" />
       <workItem from="1636791334275" duration="4855000" />
-      <workItem from="1636876899128" duration="22083000" />
+      <workItem from="1636876899128" duration="23289000" />
+      <workItem from="1636998361083" duration="11465000" />
     </task>
     <servers />
   </component>

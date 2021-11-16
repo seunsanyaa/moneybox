@@ -1,6 +1,6 @@
 import {NavBar} from "./index";
 import './landing.scss'
-import {tick,flag,dropDown,appImage} from "./icon";
+import {tick,flag,dropDown,appImage,line,shine} from "./icon";
 // import {SearchMenu} from "./index";
 // import {useEffect, useRef, useState} from "react";
 // import {gsap, TimelineMax} from "gsap";
@@ -43,10 +43,14 @@ const LandingPage = () =>{
             <div className='container landingPageGrid' >
 
                 <div className='leftSide box' >
-
+<div className='bigParagraphAndLine'>
                     <p className='bigParagraph'>
-                        SAVE AND INVEST FOR YOUR FUTURE
+                        SAVE AND INVEST FOR YOUR FUTURE<span className='shine'>{shine}</span>
+
+
                     </p>
+    {line}
+</div>
 <div className='infoParagraph'>
                     <p className='smallParagraph'>
                         {tick}<span> Sign up in minutes with just £1
@@ -87,25 +91,7 @@ const LandingPage = () =>{
 
             </div>
 
-<div className='userNumbers'>
-    <div className='userNumbersLeft box' >
 
-        <p className='userNumbersParagraph'>
-            It is believed by over 700,000 users
-        </p>
-        <div className='infoParagraph'>
-
-            <p className='smallParagraph'>
-                Moneybox is helping hundreds of thousands of people save and invest for their future. Our award-winning app makes it easy to get started, offers products to suit every need, encourages people to make the right decisions throughout their lives and brings everything together in a service which is simple and enjoyable to use.
-            </p>
-
-
-
-        </div>
-
-      
-    </div>
-</div>
         </div>
         </div>
     )
