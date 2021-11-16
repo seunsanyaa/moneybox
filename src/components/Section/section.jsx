@@ -2,7 +2,7 @@
 import './section.scss'
 import {BlogPost} from "./index";
 import {appImage, line} from "../Landing/icon";
-import {investImage, linkarrow, users} from "./icon";
+import {investImage, linkarrow, pensionImage, users} from "./icon";
 // import {tick,flag,dropDown,appImage} from "./icon";
 // import {SearchMenu} from "./index";
 // import {useEffect, useRef, useState} from "react";
@@ -42,7 +42,7 @@ const Section = () =>{
                 </div>
             </div>
 
-
+            {/*investment section*/}
             <div className='investment'>
 
 
@@ -80,6 +80,80 @@ const Section = () =>{
 
 
 
+
+            {/*Savings section*/}
+
+
+            <div className='savings'>
+
+                <div className='savingsLeft box' >
+
+                    <button className='savingsParagraph'>
+                        Savings
+
+                    </button>
+                    <h3 className='savingsHeader'>A simple way to save</h3>
+
+                    <div className='infoParagraph'>
+
+                        <p className='savingssmallParagraph'>
+                            Earn interest on your savings and work towards your short term goals with our savings accounts.
+                        </p>
+
+                        <p className='findOutMore'><a href='/' >FIND OUT MORE <span className='arrowSpan'>{linkarrow}</span></a></p>
+
+
+
+                    </div>
+
+
+
+                </div>
+
+                <div className='box investmentLeft'>
+                    {investImage}
+
+                </div>
+
+
+
+            </div>
+
+
+            {/*Pension Section*/}
+            <div className='pension'>
+
+
+
+                <div className='box pensionLeft'>
+                    {pensionImage}
+
+                </div>
+
+
+                <div className='pensionRight box' >
+
+                    <button className='pensionParagraph'>
+                        Pension
+
+                    </button>
+                    <h3 className='pensionHeader'>Combine your old pensions</h3>
+
+                    <div className='infoParagraph'>
+
+                        <p className='pensionsmallParagraph'>
+                            Bring together your old pension pots into a Moneybox Personal Pension. Contribute toward your retirement and take control of your financial future                        </p>
+
+                        <p className='findOutMore'><a href='/' >FIND OUT MORE <span className='arrowSpan'>{linkarrow}</span></a></p>
+
+
+
+                    </div>
+
+
+
+                </div>
+            </div>
             <BlogPost/>
         </div>
     )
