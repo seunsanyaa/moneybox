@@ -1,6 +1,6 @@
 // import {NavBar} from "./index";
 import './section.scss'
-import {BlogPost} from "./index";
+import {BlogPost, Industries} from "./index";
 import {appImage, line} from "../Landing/icon";
 import {investImage, linkarrow, pensionImage, users} from "./icon";
 // import {tick,flag,dropDown,appImage} from "./icon";
@@ -154,6 +154,9 @@ const Section = () =>{
 
                 </div>
             </div>
+
+            <Industries/>
+
             <BlogPost/>
         </div>
     )

@@ -1,0 +1,92 @@
+
+.industries{
+
+  margin-top: 10em;
+
+
+
+}
+
+
+
+.industryContainer{
+
+  padding-top: 7em;
+}
+
+
+.industriesHeader{
+text-align: center;
+}
+
+
+.industriesHeader h3{
+
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 39px;
+
+
+
+  color: #303030;
+}
+
+
+.industriesGrid{
+justify-items: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+//.inner{
+//height: 2em;
+//}
+
+.inner{
+border-radius: 6em;
+  //height: 10em;
+  background: white;
+  box-shadow:2px 2px 5px 5px whitesmoke;
+//backdrop-filter: blur(2em);
+//  display: flex;
+  width: 156px;
+  //height: 156.54px;
+  text-align: center;
+  vertical-align: center;
+  position: relative;
+}
+
+.inner img{
+width: 100%;
+  //width: 128px;
+
+  height: auto;
+
+
+
+}
+
+.advisor{
+  padding-top: 3.1em;
+  padding-bottom: 3.1em;
+}
+
+.theTimes{
+
+  padding-top: 2.1em;
+  padding-bottom: 2.1em;
+
+}
+
+
+.businessInsider{
+
+  padding-top: 2.8em;
+  padding-bottom: 2.8em;
+}
+
+.thisIsMoney{
+
+  padding-top: 2.5em;
+  padding-bottom: 2.5em;
+}
