@@ -125,7 +125,70 @@ const BlogPost = () =>{
            </div>
 
        </div>
-jshjdh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       <div className='signupCard'>
+
+           <div className='contentGrid'>
+
+               <div className='leftSignupContent'>
+
+                                    <h2>
+
+
+                                        Sign up for free.
+                                    </h2>
+
+                   <h2>
+
+
+                       Do something nice for your  future.
+
+                   </h2>
+
+
+               </div>
+
+               <div className='getStartedForm'>
+
+                   <form>
+                       <label>
+                           <input className='numberInput' placeholder='Your Phone Number'/>
+                       </label>
+                       <button type='submit' className='getStarted'>
+                           Get started
+
+                       </button>
+
+                   </form>
+               </div>
+
+
+           </div>
+       </div>
+
+
+
+
+
+
+
+vgghg
    </div>
     )
 

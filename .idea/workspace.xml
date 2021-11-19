@@ -23,10 +23,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Section/BlogPost/blogpost.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Section/BlogPost/blogpost.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Section/BlogPost/blogpost.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Section/BlogPost/blogpost.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Section/BlogPost/icon.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Section/BlogPost/icon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Section/Industries/icon.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Section/Industries/icon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Section/Industries/industries.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Section/Industries/industries.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Section/Industries/industries.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Section/Industries/industries.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +78,7 @@
       <workItem from="1636791334275" duration="4855000" />
       <workItem from="1636876899128" duration="23289000" />
       <workItem from="1636998361083" duration="26479000" />
-      <workItem from="1637330881383" duration="7534000" />
+      <workItem from="1637330881383" duration="10033000" />
     </task>
     <servers />
   </component>
