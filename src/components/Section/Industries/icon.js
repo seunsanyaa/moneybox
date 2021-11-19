@@ -6,4 +6,3 @@ export const advisor=<img src='https://res.cloudinary.com/seunsanyaa/image/uploa
 export const thetimes=<img src='https://res.cloudinary.com/seunsanyaa/image/upload/v1637238480/the-times-logo-removebg-preview_1_vkxpaj.png' alt='The Times' className='theTimes'/>
 export const bizInsider=<img src='https://res.cloudinary.com/seunsanyaa/image/upload/v1637242621/Business-Insider-_1-removebg-preview_dptrkc.png' alt='Business Insider' className='businessInsider'/>
 export const thisIsMoney=<img src='https://res.cloudinary.com/seunsanyaa/image/upload/v1637242907/This-is-Money_1-removebg-preview_rmqtgi.png' alt='This is Money' className='thisIsMoney'/>
-

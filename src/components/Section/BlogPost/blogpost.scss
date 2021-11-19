@@ -1,0 +1,138 @@
+
+
+.blogPost{
+  margin-top: 10em;
+}
+
+.blogPostHeader{
+  text-align: center;
+}
+
+
+.blogPostHeader h3{
+
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 39px;
+
+
+
+  color: #303030;
+}
+
+
+.blogGrid{
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+padding-top: 5em;
+
+}
+
+
+.leftGrid{
+  width: 45em;
+
+  position: relative;
+  text-align: left;
+  margin-left: 2.5em;
+
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  color: white;
+  padding-left: 1.5em;
+  padding-bottom: 2.2em;
+}
+
+
+.leftGrid img{
+ width: 100%;
+  filter: brightness(65%);
+
+}
+
+.blogButton{
+  text-decoration: none;
+  background: #E5F9F8;
+  opacity: 0.7;
+  border-radius: 6px;
+  border: none;
+  color: #006179;
+  width:8em;
+  text-align: center;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  height: 1.8em;
+
+  font-family: Montserrat;
+}
+
+
+
+.bottom-left h3{
+font-weight: 700;
+  font-size: 1.8em;
+padding-top: 1em;
+}
+
+
+
+.bottom-left .brushParagraph{
+      padding-right: 10em;
+  line-height: 28px;
+  padding-top: 0.7em;
+  font-weight: 600;
+}
+
+
+.date{
+padding-top: 1.2em;
+}
+
+
+.rightGridContainer{
+  margin-left: -2.5em;
+  display: grid;
+
+  grid-template-rows: 1fr 1fr;
+}
+
+.rightGrid{
+  width: 100%;
+
+
+  position: relative;
+  text-align: left;
+
+}
+
+.rightGrid img{
+  width: 453px;
+  height: 300px;
+  filter: brightness(65%);
+
+
+}
+.bottomleftSavings{
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  color: white;
+  padding-left: 1.5em;
+  padding-bottom: 2em;
+
+}
+
+.bottomleftSavings h3{
+  line-height: 27px;
+  padding-right: 8em;
+  padding-top: 1em;
+}
+
+.secongRightGrid{
+  padding-top: 1em;
+}

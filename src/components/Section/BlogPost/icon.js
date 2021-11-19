@@ -1,0 +1,3 @@
+export const pigBook=<img src='https://res.cloudinary.com/seunsanyaa/image/upload/v1637331773/Rectangle_2428_i7scem.png' alt='Pig Book' className='pigBook'/>
+export const savingsBlog =<img src='https://res.cloudinary.com/seunsanyaa/image/upload/v1637349587/Rectangle_2429_tecxcn.png' alt='savings' className='savingsBlog'/>
+export const homeBuying=<img src='https://res.cloudinary.com/seunsanyaa/image/upload/v1637349585/Rectangle_2430_fhhoa1.png' alt='Home Buying Image'/>

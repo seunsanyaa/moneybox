@@ -85,10 +85,11 @@ const Industries = () =>{
                    {thisIsMoney}
 
                </div>
+
            </div>
        </div>
 
-       jkjjd
+
    </div>
     )
 
