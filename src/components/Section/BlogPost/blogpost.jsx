@@ -166,11 +166,11 @@ const BlogPost = () =>{
 
                <div className='getStartedForm'>
 
-                   <form>
-                       <label>
-                           <input className='numberInput' placeholder='Your Phone Number'/>
+                   <form className='blogForm'>
+                       <label className='blogIcon'>
+                           <input className='numberInput blogInput'  placeholder='Your Phone Number'/>
                        </label>
-                       <button type='submit' className='getStarted'>
+                       <button type='submit' className='getStarted getStartedBlog'>
                            Get started
 
                        </button>

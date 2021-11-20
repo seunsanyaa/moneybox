@@ -70,7 +70,7 @@ const LandingPage = () =>{
 
                     <div className='getStartedForm'>
 
-                        <form>
+                        <form className='landingForm'>
                             <label>
                             <input className='numberInput' placeholder='Your Phone Number'/>
                             </label>

@@ -167,8 +167,47 @@ padding-top: 1.2em;
   padding-right: 7em;
 }
 
-.leftSignupContent{
+.blogInput{
+  background: rgba(243, 233, 233, 0.4);
+  border: none;
+  width: 40em;
+  height: 4.4em;
+}
+
+.blogForm input::placeholder{
+  color: white;
+  font-size: 17px;
+
+  font-family: Montserrat;
+  padding-left: 3.8em;
+  line-height: normal;
+
+padding-top: 6em;
+}
+.blogForm label:after {
+  content: "";
+  position: absolute;
+  left: 8.08%;
+
+  top:50%;
+  bottom: 0;
+  width: 7px;
+  margin-left: 0.3em;
+  height: 4px;
+  background: url("data:image/svg+xml,%3Csvg width='7' height='4' viewBox='0 0 7 4' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0.296477 1.71L2.88648 4.3C3.27648 4.69 3.90648 4.69 4.29648 4.3L6.88648 1.71C7.51648 1.08 7.06648 0 6.17648 0H0.996477C0.106477 0 -0.333523 1.08 0.296477 1.71Z' fill='%23303030'/%3E%3C/svg%3E%0A");
+}
+.getStartedBlog{
 
 
+  color: #006179;
+
+  background: white;
+  margin-left: -12.5em;
+  border: 2em black;
+  font-size: 14px;
+  width: 12em;
+}
+
+.getStartedBlog{
 
 }
