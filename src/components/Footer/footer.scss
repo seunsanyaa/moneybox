@@ -1,0 +1,91 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+
+.footer{
+  background: linear-gradient(190.81deg, rgba(0, 194, 181, 0.1) 8.01%, rgba(0, 194, 181, 0) 48.66%);
+
+margin-top: 8em;
+  padding-bottom: 8em;
+}
+
+
+
+.footerGrid{
+
+display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+padding-top: 3em;
+
+}
+
+.footerGrid h4{
+
+
+  font-family: 'Inter';
+  color: #64748B;
+}
+
+
+
+.firstColumn{
+
+  display: block;
+  padding-left: 2.5em;
+
+  //padding-top: 2em;
+
+}
+
+.belowLogo p{
+  padding-right: 15em;
+  padding-top: 0.9em;
+  color: #64748B;
+
+}
+
+.secondColumn p{
+  padding-top: 1.5em;
+  color: #64748B;
+}
+.thirdColumn p{
+  padding-top: 1.5em;
+  color: #64748B;
+}.fourthColumn p{
+  padding-top: 1.5em;
+   color: #64748B;
+}
+
+ .icons{
+   display: flex;
+ }
+
+ .icons div{
+   padding-right: 1.7em;
+ }
+
+ .facebook svg{
+   height: 5em;
+   width: 12px
+ }
+
+.linkedIn svg{
+  height: 5em;
+  width: 18px
+}
+
+.twitter svg{
+  height: 5em;
+  width: 20px
+}
+
+.registeredTrademark{
+  margin-top: 5em;
+  margin-right: 57em;
+ padding-left: 2.5em;
+}
+.registeredTrademark p{
+
+font-size: 0.85em;
+  line-height: 30px;
+}
+

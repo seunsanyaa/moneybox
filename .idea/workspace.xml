@@ -20,11 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33b59c1f-fca2-4e75-82bc-eb30ba55f82f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/icon.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Landing/landing.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Landing/landing.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Landing/landing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Landing/landing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Section/BlogPost/blogpost.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Section/BlogPost/blogpost.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Section/BlogPost/blogpost.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Section/BlogPost/blogpost.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,16 +58,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Section" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Seunxyz\Documents\GitHub\moneybox\src\components" />
       <recent name="C:\Users\Seunxyz\Documents\GitHub\moneybox\src\components\Section" />
       <recent name="C:\Users\Seunxyz\Documents\GitHub\moneybox\src\components\Section\BlogPost" />
       <recent name="C:\Users\Seunxyz\Documents\GitHub\moneybox\src\components\Landing\Nav" />
-      <recent name="C:\Users\Seunxyz\Documents\GitHub\moneybox\src\components" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -80,7 +82,7 @@
       <workItem from="1636791334275" duration="4855000" />
       <workItem from="1636876899128" duration="23289000" />
       <workItem from="1636998361083" duration="26479000" />
-      <workItem from="1637330881383" duration="18894000" />
+      <workItem from="1637330881383" duration="26028000" />
     </task>
     <servers />
   </component>
@@ -100,6 +102,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="371" y="84" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1637436438480">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="371" y="84" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.672@0.0.1280.672" timestamp="1637436438480" />
     <state x="459" y="247" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637089540196">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
@@ -108,9 +114,9 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="297" y="149" key="run.anything.popup/0.0.1280.672@0.0.1280.672" timestamp="1637417192270" />
-    <state x="303" y="0" width="672" height="678" key="search.everywhere.popup" timestamp="1637238345588">
+    <state x="303" y="0" width="672" height="678" key="search.everywhere.popup" timestamp="1637437898669">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="303" y="0" width="672" height="678" key="search.everywhere.popup/0.0.1280.672@0.0.1280.672" timestamp="1637238345588" />
+    <state x="303" y="0" width="672" height="678" key="search.everywhere.popup/0.0.1280.672@0.0.1280.672" timestamp="1637437898669" />
   </component>
 </project>

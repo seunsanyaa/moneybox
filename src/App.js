@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.scss';
 import {BrowserRouter, Route, Switch} from 'react-router-dom'
-import {LandingPage,Section} from "./components";
+import {LandingPage,Section,Footer} from "./components";
 
 
 
@@ -15,7 +15,7 @@ function App() {
 
 <Section/>
 
-
+<Footer/>
         </div>
 
 

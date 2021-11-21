@@ -188,7 +188,7 @@ const BlogPost = () =>{
 
 
 
-vgghg
+
    </div>
     )
 
