@@ -1,6 +1,41 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
 
+@media (min-width: 1200px) and (max-width: 1400px) {
+  .belowLogo p{
+  font-size: 0.8em !important;
+
+  }
+
+  .secondColumn p{
+    font-size: 0.8em !important;
+  }
+  .thirdColumn p{
+    font-size: 0.8em !important;
+  }.fourthColumn p{
+       font-size: 0.8em !important;
+   }
+  .registeredTrademark{
+
+    margin-top: 2em !important;
+  }
+  .registeredTrademark p{
+
+    font-size: 0.75em !important;
+
+    padding-right: 0em !important;
+  }
+
+  .footerGrid h4{
+
+
+   font-size: 0.9em !important;
+  }
+
+
+}
+
+
 @media (min-width: 1440px) {
   .footerGrid{
     max-width: 1440px;

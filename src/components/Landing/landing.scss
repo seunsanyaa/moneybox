@@ -1,4 +1,4 @@
-@media (min-width: 1200px) and (max-width: 1399px) {
+@media (min-width: 1200px) and (max-width: 1400px) {
   .landingPageSection{
     max-width: 1200px;
     margin: 0 auto;
@@ -12,6 +12,41 @@
 
   }
 
+
+  .leftSide{
+    padding-right: 1em !important;
+padding-top: 5em !important;
+
+  }
+
+  .bigParagraph{
+    font-size: 45px !important;
+    padding-right: 1em !important
+  }
+
+
+  .bigParagraphAndLine .line{
+
+
+    padding-left: 16em !important
+  }
+
+
+
+
+  .smallParagraph span{
+
+    font-size: 15px !important;
+
+
+
+  }
+
+  .rightSide img{
+
+    height: 100% !important
+
+  }
 
 }
 

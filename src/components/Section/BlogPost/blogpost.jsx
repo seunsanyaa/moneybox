@@ -100,7 +100,7 @@ const BlogPost = () =>{
                </div>
 
 
-               <div className='rightGrid secongRightGrid'>
+               <div className='rightGrid secondRightGrid'>
                    {homeBuying}
 
 

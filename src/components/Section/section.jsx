@@ -2,7 +2,7 @@
 import './section.scss'
 import {BlogPost, Industries} from "./index";
 import {appImage, line} from "../Landing/icon";
-import {investImage, linkarrow, pensionImage, users} from "./icon";
+import {investImage, linkarrow, pensionImage, savingsImage, users} from "./icon";
 // import {tick,flag,dropDown,appImage} from "./icon";
 // import {SearchMenu} from "./index";
 // import {useEffect, useRef, useState} from "react";
@@ -111,7 +111,7 @@ const Section = () =>{
                 </div>
 
                 <div className='box investmentLeft'>
-                    {investImage}
+                    {savingsImage}
 
                 </div>
 
@@ -125,7 +125,7 @@ const Section = () =>{
 
 
 
-                <div className='box pensionLeft'>
+                <div className='box investmentLeft'>
                     {pensionImage}
 
                 </div>
