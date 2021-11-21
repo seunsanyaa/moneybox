@@ -1,6 +1,24 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
 
+@media (min-width: 1440px) {
+  .footerGrid{
+    max-width: 1440px;
+    margin: auto;
+  }
+  .registeredTrademark{
+    max-width: 1440px;
+    margin: 0 auto;
+
+  }
+
+
+
+}
+
+
+
+
 .footer{
   background: linear-gradient(190.81deg, rgba(0, 194, 181, 0.1) 8.01%, rgba(0, 194, 181, 0) 48.66%);
 
@@ -79,13 +97,19 @@ padding-top: 3em;
 }
 
 .registeredTrademark{
+
+  display: grid;
+  grid-template-columns: 1fr 2fr;
   margin-top: 5em;
-  margin-right: 57em;
- padding-left: 2.5em;
+
+
 }
 .registeredTrademark p{
 
 font-size: 0.85em;
   line-height: 30px;
+
+  padding-left: 2em;
+  padding-right: 2em;
 }
 
