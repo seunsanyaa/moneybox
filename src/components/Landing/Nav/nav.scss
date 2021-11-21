@@ -7,14 +7,21 @@
     margin: 0 auto;
     padding-left: 2em !important;
     padding-right: 2em !important;
-  }
+    padding-top: 1em !important;
+    padding-bottom: 0.7em !important;
 
+  }
+  nav>.navLinks>*{
+    font-size: 0.85em !important;
+  }
 
   .navLinks{
-    margin-left: 0em !important;
+    margin-left: 1em !important;
 
 
   }
+
+
 }
 
 
