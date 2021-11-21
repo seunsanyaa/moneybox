@@ -1,5 +1,141 @@
+@media (min-width: 925px) and (max-width: 1200px) {
 
-@media (min-width: 1200px) and (max-width: 1400px) {
+.blogGrid{
+  padding-top: 3em !important;
+
+}
+  .blogPostHeader h3{
+    font-size: 25px !important;
+  }
+
+
+
+  .leftGrid{
+    width: 26em !important;
+
+
+    margin-left: 4.5em !important;
+
+  }
+
+
+
+
+
+
+  .blogButton{
+
+    width:7em !important;
+
+    font-size: 12px !important;
+
+  }
+
+
+  .bottom-left {
+    padding-bottom: 1.5em !important;
+  }
+
+  .bottom-left h3{
+
+    font-size: 1em !important;
+
+  }
+
+
+
+  .bottom-left .brushParagraph{
+    padding-right: 8em !important;
+    font-size: 0.6em !important;
+  }
+
+
+  .date{
+    padding-top: 0.7em !important;
+
+    font-size: 0.6em !important;
+
+  }
+
+
+
+
+  .rightGridContainer{
+    //margin-left: -2em !important;
+    margin-right: 2.2em !important;
+  }
+
+
+  .rightGrid img{
+    width: 230px !important;
+    height: 167px !important;
+
+
+
+  }
+
+  .bottomleftSavings h3{
+    font-size: 0.8em !important;
+    padding-right: 7em !important;
+  }
+
+
+
+  .leftSignupContent{
+    font-size:0.9em !important;
+    padding-right:10em!important;
+
+  }
+
+  .blogInput{
+    width: 29em !important;
+
+
+  }
+
+
+  .getStartedBlog{
+
+
+
+    margin-left: -12em !important;
+
+    width: 11.5em !important ;
+  }
+
+  .blogForm input::placeholder{
+
+    font-size: 15px !important;
+    padding-left: 3.5em !important;
+
+  }
+
+
+
+  .contentGrid{
+
+    padding-top: 2.5em !important;
+    //padding: 2px 10px;
+    padding-right: 3em !important;
+    padding-left: 3em !important;
+    padding-bottom: 2.5em !important;
+  }
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+  @media (min-width: 1200px) and (max-width: 1400px) {
 
   .blogPostHeader h3{
     font-size: 28px !important;
