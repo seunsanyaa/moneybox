@@ -1,6 +1,6 @@
 import './nav.scss'
 import {NavLink} from "react-router-dom"
-import {logo,arrow,apple,google} from "./icon";
+import {logo, arrow, apple, google, menu} from "./icon";
 // import { gsap } from "gsap";
 // import {useRef} from "react";
 import React, { useEffect } from 'react';
@@ -29,7 +29,9 @@ const NavBar = () =>{
                     <NavLink to='/'> <span>Support</span></NavLink>
 
 
+
 </div>
+
 
                     <div className='stores'>
 
@@ -40,6 +42,22 @@ const NavBar = () =>{
                         <button className='googleStore'>
                             {google}
                         </button>
+                    </div>
+
+                    <div className='menu'>
+                        <a className='menuLink'>{menu}</a>
+
+                        <div className='navLinksMobile'>
+                            <NavLink to='/'> <span>Investing</span></NavLink>
+                            <NavLink to='/'> <span>Savings</span></NavLink>
+                            <NavLink to='/'> <span>Company  {arrow}  </span></NavLink>
+                            <NavLink to='/'> <span>Learn</span></NavLink>
+                            <NavLink to='/'> <span>Careers</span></NavLink>
+                            <NavLink to='/'> <span>Support</span></NavLink>
+
+
+
+                        </div>
                     </div>
 
                 </nav>

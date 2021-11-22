@@ -1,4 +1,151 @@
-@media (min-width: 925px) and (max-width: 1200px) {
+@media (min-width: 768px) and (max-width: 923px) {
+
+  .section{
+    max-width: 768px;
+    margin: 0 auto;
+    padding-left: 1em !important;
+    padding-right: 1em !important;
+  }
+  .userNumbersLeft {
+    padding-right: 0em !important;
+    padding-top: 0.8em !important;
+
+
+
+  }
+
+
+
+
+
+  .userNumbersParagraph{
+
+    font-size: 15px !important;
+    padding-right: 9em !important;
+  }
+
+  .rightSideUsers{
+    width: 280px !important
+
+  }
+
+
+  .investment{
+
+    padding-left: 1em !important;
+    padding-right: 1em !important;
+  }
+
+
+  .investmentLeft img {
+    width: 280px !important
+
+  }
+
+  .investmentParagraph{
+
+
+    width:110px !important;
+
+    font-size: 12px !important;
+
+
+
+  }
+  .investmentRight {
+    padding-right: 0em !important;
+    padding-top: 1.6em !important;
+
+
+  }
+
+
+  .investmentHeader{
+
+    font-size: 1.4em !important
+
+  }
+
+
+  .investmentsmallParagraph{
+
+    font-size: 13px !important;
+
+  }
+
+
+  .savingsLeft{
+    padding-top: 1.6em !important;
+
+
+  }
+  .savingsParagraph{
+
+
+    width:6em !important;
+
+    font-size: 13px !important;
+
+  }
+  .savingsHeader{
+
+    font-size: 1.5em !important;
+
+  }
+
+
+  .savingssmallParagraph{
+
+    font-size: 13px !important;
+
+  }
+
+
+  .pensionRight{
+    padding-top: 1.6em !important;
+  }
+
+  .pensionParagraph{
+
+
+    width:6em !important;
+
+    font-size: 13px !important;
+
+  }
+  .pensionHeader{
+
+    font-size: 1.5em !important;
+
+  }
+
+
+  .pensionsmallParagraph{
+
+    font-size: 13px !important;
+
+  }
+
+
+
+  .findOutMore a{
+
+
+    font-size: 10px !important;
+
+  }
+
+
+
+
+
+
+
+
+}
+
+
+  @media (min-width: 925px) and (max-width: 1200px) {
 
 
   .section{

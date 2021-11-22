@@ -1,3 +1,96 @@
+@media (min-width: 768px) and (max-width: 923px)  {
+
+
+  .landingPageSection{
+    max-width:768px;
+    margin: 0 auto;
+    padding-left: 0em !important;
+    padding-right: 0em !important;
+
+  }
+
+  .landingPageGrid{
+    padding-left: 0em !important;
+
+  }
+
+
+  .leftSide{
+    padding-right: 0em !important;
+    padding-top: 2em !important;
+    padding-bottom: 0em !important;
+    padding-left: 0.2em!important;
+
+
+  }
+
+  .bigParagraph{
+    font-size: 35px !important;
+    padding-right: 1em !important
+  }
+
+
+  .bigParagraphAndLine .line{
+
+
+    padding-left: 13em !important
+  }
+
+
+
+
+  .smallParagraph span{
+
+    font-size: 12px !important;
+
+
+
+  }
+
+  .rightSide{
+    height: 360px !important;
+  }
+
+  .rightSide img{
+
+    height: 100% !important
+
+  }
+
+  .getStartedForm{
+    margin-top: 2em !important;
+
+  }
+  .numberInput{
+    //border: 0.4px solid #828282;
+    //box-sizing: border-box;
+    //background: none;
+    //padding-top: 15px;
+    //padding-bottom: 15px;
+    //border-radius: 6px;
+    width: 16em !important;
+
+
+  }
+  .landingForm input::placeholder {
+    font-size: 12px !important;
+
+
+  }
+
+
+  .getStarted{
+
+    font-size: 13px !important;
+
+
+  ;
+  }
+
+}
+
+
+
 
 @media (min-width: 925px) and (max-width: 1200px) {
 
