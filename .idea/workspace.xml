@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="33b59c1f-fca2-4e75-82bc-eb30ba55f82f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Landing/landing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Landing/landing.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Section/BlogPost/blogpost.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Section/BlogPost/blogpost.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +78,7 @@
       <workItem from="1636791334275" duration="4855000" />
       <workItem from="1636876899128" duration="23289000" />
       <workItem from="1636998361083" duration="26479000" />
-      <workItem from="1637330881383" duration="73204000" />
+      <workItem from="1637330881383" duration="77513000" />
     </task>
     <servers />
   </component>
@@ -101,10 +102,14 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="371" y="84" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.672@0.0.1280.672" timestamp="1637436438480" />
-    <state x="93" y="93" width="1095" height="487" key="DiffContextDialog" timestamp="1637488779132">
+    <state x="93" y="93" width="1095" height="487" key="DiffContextDialog" timestamp="1637680151777">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="93" y="93" width="1095" height="487" key="DiffContextDialog/0.0.1280.672@0.0.1280.672" timestamp="1637488779132" />
+    <state x="93" y="93" width="1095" height="487" key="DiffContextDialog/0.0.1280.672@0.0.1280.672" timestamp="1637680151777" />
+    <state x="423" y="0" key="RollbackChangesDialog" timestamp="1637680154526">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="423" y="0" key="RollbackChangesDialog/0.0.1280.672@0.0.1280.672" timestamp="1637680154526" />
     <state x="459" y="247" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637089540196">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
