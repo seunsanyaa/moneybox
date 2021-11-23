@@ -1,7 +1,45 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
 
+@media (max-width: 765px) {
 
+  .footerGrid{
+
+
+
+
+    grid-template-rows: 1fr 1fr 1fr 1fr ;
+
+
+
+  }
+
+  .secondColumn{
+    padding-left: 2.5em !important
+  }
+
+
+  .thirdColumn{
+    padding-left: 2.5em !important
+  }
+
+  .fourthColumn{
+    padding-left: 2.5em !important
+  }
+
+  .registeredTrademark{
+
+    grid-template-rows: 1fr 2fr;
+    margin-top: 2em !important;
+  }
+  .registeredTrademark p{
+
+    font-size: 0.7em !important;
+padding-left: 1em !important;
+    padding-right: 1em !important;
+  }
+
+}
 @media (min-width: 768px) and (max-width: 923px) {
 
   .footer{
@@ -26,6 +64,7 @@
   }
   .registeredTrademark{
 
+    grid-template-columns: 1fr 2fr;
     margin-top: 2em !important;
   }
   .registeredTrademark p{
@@ -41,7 +80,16 @@
     font-size: 0.9em !important;
   }
 
+  .footerGrid{
 
+
+
+
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+
+
+
+  }
 
 
 }
@@ -71,6 +119,8 @@
   .registeredTrademark{
 
     margin-top: 2em !important;
+
+    grid-template-columns: 1fr 2fr;
   }
   .registeredTrademark p{
 
@@ -86,7 +136,16 @@
   }
 
 
+  .footerGrid{
 
+
+
+
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+
+
+
+  }
 
 
 }
@@ -110,6 +169,8 @@
   .registeredTrademark{
 
     margin-top: 2em !important;
+
+    grid-template-columns: 1fr 2fr;
   }
   .registeredTrademark p{
 
@@ -123,6 +184,16 @@
 
    font-size: 0.9em !important;
   }
+  .footerGrid{
+
+
+
+
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+
+
+
+  }
 
 
 }
@@ -131,13 +202,26 @@
 @media (min-width: 1440px) {
   .footerGrid{
     max-width: 1440px;
+
+
+
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+
+
+
     margin: auto;
   }
   .registeredTrademark{
     max-width: 1440px;
     margin: 0 auto;
 
+    grid-template-columns: 1fr 2fr;
+
   }
+
+
+
+
 
 
 
@@ -158,7 +242,7 @@ margin-top: 8em;
 .footerGrid{
 
 display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+
 padding-top: 3em;
 
 }
@@ -238,7 +322,7 @@ padding-top: 3em;
 .registeredTrademark{
 
   display: grid;
-  grid-template-columns: 1fr 2fr;
+
   margin-top: 5em;
 
 

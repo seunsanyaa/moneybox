@@ -20,7 +20,7 @@
 
 
   .leftSide{
-    padding-left: 1.2em !important;
+    padding-left: 0.8em !important;
     padding-right: 1.5em !important;
     //padding-right: 0.2em !important;
     padding-top: 5em !important;
@@ -32,7 +32,7 @@
 
   .bigParagraph{
     text-align: center;
-    font-size: 34px !important;
+    font-size: 32px !important;
     padding-right: 0em !important;
 
   }
@@ -41,7 +41,7 @@
   .bigParagraphAndLine .line{
 
 
-    padding-left: 13em !important;
+    padding-left: 12em !important;
     width: 8em !important;
     //height: 5em !important;
   }
@@ -51,19 +51,27 @@
   //
   //}
 
+  .LandinginfoParagraph{
+    margin-top: 1.2em !important;
+
+  }
+  .LandinginfoParagraph .smallParagraph{
+    padding-right: 0em !important;
+  }
   .smallParagraph{
     padding-top: 0.5em !important;
+    padding-right: 0em !important;
   }
   .smallParagraph span{
-
-    font-size: 18.8px !important;
+padding-left: 0.5em !important;
+    font-size: 18px !important;
 
 
 
   }
 
   .rightSide{
-    height: 365px !important;
+    height: 360px !important;
     width: 100% !important;
   }
 
@@ -86,7 +94,7 @@
     //padding-bottom: 15px;
     //border-radius: 6px;
     //text-align: center;
-    width: 28em !important;
+    width: 26em !important;
 
 
   }
@@ -102,7 +110,7 @@
   .getStarted{
     margin-top: 1.03em !important;
     margin-left : 0em !important;
-width: 27em !important;
+width: 25em !important;
     font-size: 14px !important;
   }
 

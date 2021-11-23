@@ -51,7 +51,7 @@ const LandingPage = () =>{
                     </p>
     {line}
 </div>
-<div className='infoParagraph'>
+<div className='LandinginfoParagraph'>
                     <p className='smallParagraph'>
                         {tick}<span> Sign up in minutes with just £1
                        </span>

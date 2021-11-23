@@ -1,3 +1,182 @@
+@media (max-width: 765px) {
+
+
+  .section{
+    max-width: 765px;
+    margin: 0 auto;
+    padding-left: 1em !important;
+    padding-right: 1em !important;
+    padding-top:4em !important;
+  }
+
+
+
+
+  .userNumbersLeft {
+    padding-right: 0em !important;
+    padding-top: 0em !important;
+
+
+
+  }
+
+
+
+
+
+  .userNumbersParagraph{
+
+    font-size:22px !important;
+    padding-right: 5em !important;
+  }
+
+  .infoParagraph .smallParagraph{
+padding-top: 0em !important;
+    padding-right: 2em !important;
+  }
+
+  .rightSideUsers{
+    width: 300px !important;
+    padding-left : 0em !important;
+    padding-top: 2em !important;
+
+  }
+
+
+  .investment{
+    grid-template-rows: 2fr 2fr !important;
+
+    padding-left: 0em !important;
+    padding-right: 1em !important;
+  }
+
+  .investmentLeft{
+    //padding-bottom: 3em !important
+  ;
+
+  }
+  .investmentLeft img {
+    width: 340px !important
+
+  }
+
+  .investmentParagraph{
+
+
+    width:110px !important;
+
+    font-size: 12px !important;
+
+
+
+  }
+  .investmentRight {
+    padding-right: 0em !important;
+    padding-top: 2.3em !important;
+
+
+  }
+
+
+  .investmentHeader{
+
+    font-size: 1.7em !important
+
+  }
+
+
+  .investmentsmallParagraph{
+
+    font-size: 16px !important;
+
+  }
+
+.savings{
+  grid-template-rows: 2fr 2fr;
+  margin-left : 0em !important;
+  margin-top :0em !important
+}
+  .savingsLeft{
+    padding-top: 3em !important;
+    margin-left:0em !important;
+  }
+  .savingsParagraph{
+
+
+    width:6em !important;
+
+    font-size: 13px !important;
+
+  }
+  .savingsHeader{
+
+    font-size: 1.7em !important;
+
+  }
+
+
+  .savingssmallParagraph{
+
+    font-size: 16px !important;
+    padding-right: 1em !important
+  }
+  .pension {
+    grid-template-rows: 2fr 2fr;
+    padding-left: 0em !important;
+  }
+
+  .pensionRight{
+    padding-top: 2.3em !important;
+    padding-right : 0em !important;
+  }
+
+  .pensionParagraph{
+
+
+    width:6em !important;
+
+    font-size: 13px !important;
+
+  }
+  .pensionHeader{
+
+    font-size: 1.5em !important;
+
+  }
+
+
+  .pensionsmallParagraph{
+
+    font-size: 16px !important;
+    padding-right: 1em !important
+
+  }
+
+
+
+  .findOutMore a{
+
+
+    font-size: 12px !important;
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
 @media (min-width: 768px) and (max-width: 923px) {
 
   .section{
@@ -31,6 +210,7 @@
 
 
   .investment{
+    grid-template-columns: 2fr 2fr;
 
     padding-left: 1em !important;
     padding-right: 1em !important;
@@ -138,8 +318,18 @@
 
 
 
+  .userNumbers{
+    grid-template-columns: 2fr 2fr;
+  }
 
 
+
+.savings{
+  grid-template-columns: 2fr 2fr;
+}
+.pension{
+  grid-template-columns: 2fr 2fr;
+}
 
 
 }
@@ -179,6 +369,7 @@
 
 
   .investment{
+    grid-template-columns: 2fr 2fr;
 
     padding-left: 1em !important;
     padding-right: 1em !important;
@@ -290,8 +481,18 @@
 
 
 
+    .userNumbers{
+      grid-template-columns: 2fr 2fr;
+    }
 
 
+    .savings{
+      grid-template-columns: 2fr 2fr;
+    }
+
+    .pension{
+      grid-template-columns: 2fr 2fr;
+    }
 
 }
 
@@ -328,6 +529,8 @@
 
 
   .investment{
+
+      grid-template-columns: 2fr 2fr;
 
     padding-left: 2em !important;
     padding-right: 2em !important;
@@ -426,6 +629,18 @@
   }
 
 
+    .userNumbers{
+      grid-template-columns: 2fr 2fr;
+    }
+
+.savings{
+  grid-template-columns: 2fr 2fr;
+}
+
+    .pension{
+      grid-template-columns: 2fr 2fr;
+    }
+
 }
 
 
@@ -437,6 +652,19 @@
     margin: 0 auto;
   }
 
+  .userNumbers{
+    grid-template-columns: 2fr 2fr;
+  }
+  .investment{
+    grid-template-columns: 2fr 2fr;
+  }
+.savings{
+  grid-template-columns: 2fr 2fr;
+}
+
+  .pension{
+    grid-template-columns: 2fr 2fr;
+  }
 
 }
 
@@ -468,7 +696,7 @@
   display: grid;
   //flex-direction: row;
 
-  grid-template-columns: 2fr 2fr;
+
   //align-items: center;
 
 
@@ -534,7 +762,7 @@ text-decoration: none;
   display: grid;
   //flex-direction: row;
 
-  grid-template-columns: 2fr 2fr;
+
   //align-items: center;
 
 margin-top: 5.5em;
@@ -616,7 +844,7 @@ padding-left: 5px;
   display: grid;
   //flex-direction: row;
 
-  grid-template-columns: 2fr 2fr;
+
   //align-items: center;
 
   margin-top: 6em;
@@ -681,7 +909,7 @@ padding-left: 5px;
   display: grid;
   //flex-direction: row;
 
-  grid-template-columns: 2fr 2fr;
+
   //align-items: center;
 
   margin-top: 6em;
