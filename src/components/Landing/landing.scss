@@ -1,3 +1,113 @@
+@media (max-width: 765px) {
+
+
+
+  .landingPageSection{
+    max-width:765px;
+    margin: 0 auto;
+    padding-left: 0em !important;
+    padding-right: 0em !important;
+
+  }
+
+  .landingPageGrid{
+    padding-left: 0em !important;
+    padding-right: 0em !important;
+    display: grid !important;
+    grid-template-rows: 2fr 1.3fr !important;
+
+  }
+
+
+  .leftSide{
+    padding-left: 1.2em !important;
+    padding-right: 1.5em !important;
+    //padding-right: 0.2em !important;
+    padding-top: 5em !important;
+    padding-bottom: 0em !important;
+    //padding-left: 0em!important;
+
+
+  }
+
+  .bigParagraph{
+    text-align: center;
+    font-size: 34px !important;
+    padding-right: 0em !important;
+
+  }
+
+
+  .bigParagraphAndLine .line{
+
+
+    padding-left: 13em !important;
+    width: 8em !important;
+    //height: 5em !important;
+  }
+
+
+  //.infoParagraph {
+  //
+  //}
+
+  .smallParagraph{
+    padding-top: 0.5em !important;
+  }
+  .smallParagraph span{
+
+    font-size: 18.8px !important;
+
+
+
+  }
+
+  .rightSide{
+    height: 365px !important;
+    width: 100% !important;
+  }
+
+  .rightSide img{
+
+    height: 100% !important
+
+  }
+
+  .getStartedForm{
+    margin-top: 2em !important;
+    text-align: center !important;
+
+  }
+  .numberInput{
+    //border: 0.4px solid #828282;
+    //box-sizing: border-box;
+    //background: none;
+    //padding-top: 15px;
+    //padding-bottom: 15px;
+    //border-radius: 6px;
+    //text-align: center;
+    width: 28em !important;
+
+
+  }
+  .landingForm input::placeholder {
+    font-size: 15px !important;
+
+
+  }
+  label:after{
+    margin-left : 0em !important;
+  }
+
+  .getStarted{
+    margin-top: 1.03em !important;
+    margin-left : 0em !important;
+width: 27em !important;
+    font-size: 14px !important;
+  }
+
+}
+
 @media (min-width: 768px) and (max-width: 923px)  {
 
 
@@ -11,6 +121,7 @@
 
   .landingPageGrid{
     padding-left: 0em !important;
+    grid-template-columns: 2fr 2fr;
 
   }
 
@@ -105,6 +216,7 @@
 
   .landingPageGrid{
     padding-left: 1em !important;
+    grid-template-columns: 2fr 2fr;
 
   }
 
@@ -172,7 +284,7 @@
 
   .landingPageGrid{
     padding-left: 2.5em !important;
-
+    grid-template-columns: 2fr 2fr;
   }
 
 
@@ -222,6 +334,11 @@ padding-top: 5em !important;
     margin: 0 auto;
   }
 
+  .landingPageGrid{
+    grid-template-columns: 2fr 2fr;
+
+  }
+
 
 }
 
@@ -241,8 +358,8 @@ background: #00C2B512;
     display: grid;
     //flex-direction: row;
 
-    grid-template-columns: 2fr 2fr;
     //align-items: center;
+
 
 
     padding-left: 5em;

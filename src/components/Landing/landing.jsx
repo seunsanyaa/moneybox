@@ -57,8 +57,7 @@ const LandingPage = () =>{
                        </span>
                     </p>
                     <p className='smallParagraph'>
-                        {tick} <span>Choose from a range of savings or investment accounts
-                        </span>
+                        {tick} <span>Choose from a range of savings or investment accounts</span>
                     </p>
 
 

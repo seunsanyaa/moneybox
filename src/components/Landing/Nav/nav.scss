@@ -1,3 +1,42 @@
+@media (max-width: 765px ) {
+  .navContainer{
+    padding-left: 1em !important;
+    padding-right: 1em !important;
+  }
+  .menu{
+    display: block;
+    margin-left: auto;
+
+  }
+  .navLinksMobile{
+    display: block;
+
+
+  }
+  .navLinksMobile>*{
+    text-decoration: none;
+    display: none;
+    color: black;
+
+  }
+
+  .navLinks span{
+display: none;
+  }
+
+  .navLinks{
+   display: none;
+  }
+  .stores {
+
+    display: none;
+  }
+
+
+}
+
+
+
 
 @media (min-width: 768px )and (max-width: 923px)  {
   .navContainer{
