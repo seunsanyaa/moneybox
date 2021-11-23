@@ -105,8 +105,7 @@
 
 
     margin-left: 0em !important;
-
-    width: 22em !important ;
+    width: 100% !important;
   }
 
   .blogForm input::placeholder{
@@ -773,6 +772,7 @@ padding-top: 1.2em;
 }
 
 .blogInput{
+  z-index: auto;
   background: rgba(243, 233, 233, 0.4);
   border: none;
   width: 40em;
@@ -781,7 +781,7 @@ padding-top: 1.2em;
 
 .blogForm input::placeholder{
   color: white;
-  font-size: 17px;
+  font-size: 16px;
 
   font-family: Montserrat;
   padding-left: 3.8em;
@@ -803,11 +803,11 @@ padding-top: 6em;
 }
 .getStartedBlog{
 
-
+  z-index: auto;
   color: #006179;
 
   background: white;
-  margin-left: -12.5em;
+  margin-left: -12em;
   border: 2em black;
   font-size: 14px;
   width: 12em;
