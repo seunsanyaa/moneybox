@@ -1,4 +1,28 @@
-@media (max-width: 765px) {
+@media (max-width: 759px) {
+  .industriesGrid{
+
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+  }
+
+  .industriesHeader h3{
+    font-size: 20px !important;
+
+
+  }
+  .inner img{
+    width: 100% !important;
+    //width: 128px;
+
+
+
+
+
+  }
+}
+
+
+
+@media (min-width: 760px) {
 
   .industriesHeader h3{
     font-size: 20px !important;
@@ -18,7 +42,7 @@
 
   .industriesGrid{
 
-    grid-template-rows: 1fr 1fr 1fr 1fr
+    grid-template-columns: 1fr 1fr 1fr 1fr;
   }
 
 
