@@ -1,4 +1,184 @@
-@media (max-width: 765px) {
+@media (min-width: 300px) and (max-width: 375px) {
+
+
+
+
+  .section{
+    max-width: 320px;
+    margin: 0 auto;
+    padding-left: 1em !important;
+    padding-right: 1em !important;
+    padding-top:4em !important;
+  }
+
+
+
+
+  .userNumbersLeft {
+    padding-right: 0em !important;
+    padding-top: 0em !important;
+
+
+
+  }
+
+
+
+
+
+  .userNumbersParagraph{
+
+    font-size:22px !important;
+    padding-right: 5em !important;
+  }
+
+  .infoParagraph .smallParagraph{
+    padding-top: 0em !important;
+    padding-right: 2em !important;
+  }
+
+  .rightSideUsers{
+    width: 250px !important;
+    padding-left : 0em !important;
+    padding-top: 2em !important;
+
+  }
+
+
+  .investment{
+    grid-template-rows: 2fr 2fr !important;
+
+    padding-left: 0em !important;
+    padding-right: 1em !important;
+  }
+
+  .investmentLeft{
+    //padding-bottom: 3em !important
+  ;
+
+  }
+  .investmentLeft img {
+    width: 280px !important
+
+  }
+
+  .investmentParagraph{
+
+
+    width:110px !important;
+
+    font-size: 11px !important;
+
+
+
+  }
+  .investmentRight {
+    padding-right: 0em !important;
+    padding-top: 1em !important;
+
+
+  }
+
+
+  .investmentHeader{
+
+    font-size: 1.3em !important
+
+  }
+
+
+  .investmentsmallParagraph{
+
+    font-size: 14px !important;
+
+  }
+
+  .savings{
+    grid-template-rows: 2fr 2fr;
+    margin-left : 0em !important;
+    margin-top :0em !important
+  }
+  .savingsLeft{
+    padding-top: 3em !important;
+    margin-left:0em !important;
+  }
+  .savingsParagraph{
+
+
+    width:6em !important;
+
+    font-size: 11px !important;
+
+  }
+  .savingsHeader{
+
+    font-size: 1.3em !important;
+
+  }
+
+
+  .savingssmallParagraph{
+
+    font-size: 14px !important;
+    padding-right: 0em !important
+  }
+  .pension {
+    grid-template-rows: 2fr 2fr;
+    padding-left: 0em !important;
+  }
+
+  .pensionRight{
+    padding-top: 0em !important;
+    padding-right : 0em !important;
+  }
+
+  .pensionParagraph{
+
+
+    width:6em !important;
+
+    font-size: 11px !important;
+
+  }
+  .pensionHeader{
+
+    font-size: 1.3em !important;
+
+  }
+
+
+  .pensionsmallParagraph{
+
+    font-size: 14px !important;
+    padding-right: 1em !important
+
+  }
+
+
+
+  .findOutMore a{
+
+
+    font-size: 11px !important;
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+@media (min-width: 375px) and (max-width: 765px) {
 
 
   .section{

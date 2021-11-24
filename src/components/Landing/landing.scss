@@ -6,6 +6,127 @@
 //}
 
 
+@media (min-width: 300px) and (max-width: 375px){
+
+
+
+  .landingPageSection{
+    max-width:375px;
+    margin: 0 auto;
+    padding-left: 0em !important;
+    padding-right: 0em !important;
+
+  }
+
+  .landingPageGrid{
+    padding-left: 0em !important;
+    padding-right: 0em !important;
+    display: grid !important;
+    grid-template-rows: 2fr 1.3fr !important;
+
+  }
+
+
+  .leftSide{
+    padding-left: 0.4em !important;
+    padding-right: 0.8em !important;
+    //padding-right: 0.2em !important;
+    padding-top: 3em !important;
+    padding-bottom: 0em !important;
+    //padding-left: 0em!important;
+
+
+  }
+
+  .bigParagraph{
+    text-align: center;
+    font-size: 28px !important;
+    padding-right: 0.1em !important;
+
+  }
+
+
+  .bigParagraphAndLine .line{
+
+
+    padding-left: 12em !important;
+    width: 5em !important;
+    //height: 5em !important;
+  }
+
+
+  //.infoParagraph {
+  //
+  //}
+
+  .LandinginfoParagraph{
+    margin-top: 1.2em !important;
+
+  }
+  .LandinginfoParagraph .smallParagraph{
+    padding-right: 0em !important;
+  }
+  .smallParagraph{
+    padding-top: 0.5em !important;
+    padding-right: 0em !important;
+  }
+  .smallParagraph span{
+    padding-left: 0.5em !important;
+    font-size: 14px !important;
+
+
+
+  }
+
+  .rightSide{
+    height: 310px !important;
+    width: 100% !important;
+  }
+
+  .rightSide img{
+
+    height: 100% !important
+
+  }
+
+  .getStartedForm{
+    margin-top: 2em !important;
+    text-align: center !important;
+
+  }
+  .numberInput{
+    //border: 0.4px solid #828282;
+    //box-sizing: border-box;
+    //background: none;
+    //padding-top: 15px;
+    //padding-bottom: 15px;
+    //border-radius: 6px;
+    //text-align: center;
+    width: 22em !important;
+
+
+  }
+  .landingForm input::placeholder {
+    font-size: 15px !important;
+
+
+  }
+  label:after{
+    margin-left : 0em !important;
+  }
+
+  .getStarted{
+    margin-top: 1.03em !important;
+    margin-left : 0em !important;
+    width: 21em!important;
+    font-size: 14px !important;
+  }
+
+}
+
+
+
+
 @media (min-width: 375px) and (max-width: 400px){
 
 
