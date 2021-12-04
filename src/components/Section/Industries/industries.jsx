@@ -1,9 +1,7 @@
 
 import './industries.scss'
 
-// import {SearchMenu} from "./index";
-// import {useEffect, useRef, useState} from "react";
-// import {gsap, TimelineMax} from "gsap";
+
 import {advisor, altsImage, bestBuy, bizInsider, consumerInvest, moneyFactsImage, thetimes, thisIsMoney} from "./icon";
 
 const Industries = () =>{

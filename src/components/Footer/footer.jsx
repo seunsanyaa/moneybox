@@ -1,5 +1,5 @@
 import './footer.scss'
-import {tick, flag, dropDown, appImage, line, shine, facebook, linkedIn, twitter} from "./icon";
+import {facebook, linkedIn, twitter} from "./icon";
 import {logo} from "../Landing/Nav/icon";
 
 

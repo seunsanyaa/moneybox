@@ -1,12 +1,8 @@
-// import {NavBar} from "./index";
+
 import './section.scss'
 import {BlogPost, Industries} from "./index";
-import {appImage, line} from "../Landing/icon";
+import { line} from "../Landing/icon";
 import {investImage, linkarrow, pensionImage, savingsImage, users} from "./icon";
-// import {tick,flag,dropDown,appImage} from "./icon";
-// import {SearchMenu} from "./index";
-// import {useEffect, useRef, useState} from "react";
-// import {gsap, TimelineMax} from "gsap";
 
 const Section = () =>{
 

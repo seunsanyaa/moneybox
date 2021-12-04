@@ -1,10 +1,9 @@
 import './nav.scss'
 import {NavLink} from "react-router-dom"
 import {logo, arrow, apple, google, menu} from "./icon";
-// import { gsap } from "gsap";
-// import {useRef} from "react";
+
 import React, { useEffect } from 'react';
-// import {TimelineMax} from "gsap";
+
 
 const NavBar = () =>{
 
